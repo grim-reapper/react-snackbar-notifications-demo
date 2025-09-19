@@ -7,6 +7,14 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
+## Demo
+
+Check out the live demo: [https://react-snackbar-notifications-demo-ghinbu4xl.vercel.app](https://react-snackbar-notifications-demo-ghinbu4xl.vercel.app)
+
+## Playground
+
+Try the interactive examples: [https://react-snackbar-notifications-demo-ghinbu4xl.vercel.app/examples](https://react-snackbar-notifications-demo-ghinbu4xl.vercel.app/examples)
+
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
