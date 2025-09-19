@@ -37,7 +37,7 @@ const Navbar: React.FC = () => {
             Docs
           </Link>
           <a
-            href="https://github.com/your-repo/react-snackbar-notifications"
+            href="https://github.com/grim-reapper/react-snackbar-notifications"
             target="_blank"
             rel="noopener noreferrer"
             className="nav-link github-link"
